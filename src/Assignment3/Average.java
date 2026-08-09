@@ -7,21 +7,22 @@ public class Average {
 
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Enter how many numbers:");
+        System.out.print("Enter how many numbers you want to enter: ");
         int n = in.nextInt();
 
         int sum = 0;
 
-        System.out.print("Enter " + n + " numbers: ");
-
         for (int i = 1; i <= n; i++) {
-            int num = in.nextInt();
-            sum = sum + num;
+
+            System.out.print("Enter number " + i + ": ");
+            int number = in.nextInt();
+
+            sum = sum + number;
         }
 
-        double avg = (double) sum / n;
+        double average = sum / n;
 
-        System.out.println("Sum is: " + sum);
-        System.out.println("Average is: " + avg);
+        System.out.println("Sum = " + sum);
+        System.out.println("Average = " + average);
     }
 }

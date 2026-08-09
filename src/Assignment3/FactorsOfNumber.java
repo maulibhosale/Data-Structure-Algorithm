@@ -16,9 +16,6 @@ public class FactorsOfNumber {
             if (n % i == 0) {
                 System.out.println(i + " is factor of " + n);
             }
-            else {
-                System.out.println(i + " is not factor of " + n);
-            }
             i++;
 
         }
