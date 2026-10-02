@@ -8,7 +8,6 @@ public class CommonElements {
 
         solve(arr1, arr2);
     }
-
     static void solve(int[] arr1, int[] arr2){
         for (int i = 0; i < arr1.length; i++) {
             for (int j = 0; j < arr2.length; j++) {
