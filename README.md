@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maulibhosale/Data-Structure-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
